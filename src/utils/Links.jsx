@@ -8,7 +8,7 @@ export const Links = [
     icon: <FaInstagramSquare className=" size-6"/>,
   },
   {
-    path: "#",
+    path: "https://www.linkedin.com/in/ishaan-h/",
     icon: <FaLinkedin className=" size-6"/>,
   },
   {
