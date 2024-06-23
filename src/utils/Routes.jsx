@@ -6,12 +6,12 @@ export const routes = [
     path: "#About",
   },
   {
-    name: "Research",
-    path: "#Research",
-  },
-  {
     name: "Initiatives",
     path: "#Initiatives",
+  },
+  {
+    name: "Research",
+    path: "#Research",
   },
   {
     name: "Resume",
