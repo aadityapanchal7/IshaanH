@@ -12,7 +12,7 @@ export const Links = [
     icon: <FaLinkedin className=" size-6"/>,
   },
   {
-    path: "#",
+    path: "mailto:ishaanhemrajani0@gmail.com",
     icon: <MdEmail className=" size-6"/>,
   },
 ];
