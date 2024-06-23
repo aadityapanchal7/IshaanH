@@ -1,7 +1,7 @@
 import React from 'react';
 
 function About() {
-  const milliseconds = new Date().getTime() - new Date("07/16/2009").getTime();
+  const milliseconds = new Date().getTime() - new Date("10/10/2007").getTime();
   const age = Math.floor(milliseconds / 1000 / 60 / 60 / 24 / 365);
 
   return (
@@ -11,10 +11,10 @@ function About() {
       </div>
       <div className='mt-5 space-y-5 text-lg font-thin leading-relaxed md:text-xl xl:text-2xl'>
         <p>
-          hey I'm Ishaan, a {age} year old programmer currently in my sophomore year of high school.  I have a passion for both technology, and business. I love creating new projects and exploring how they can be applied to solve real-world problems.
+          Hey there! I'm a {age} year currently in my senior year of high school. I'm all about blending the world of technology and business, especially when it comes to innovative solutions like blockchain. It's fascinating to see how these technologies can transform industries and redefine our future.
         </p>
         <p>
-         When I'm not not sitting at my desk, you can usually find me watching soccer, hanging out with friends, or working out! I enjoy networking, and staying physically fit and active, feel free to text or contact me and we can have a chat!
+          When I'm not deep in undertaking new projects, you can find me on the sand playing volleyball, or crushing it in a game of spikeball. I'm always up for a challenge, whether it's on my computer or on the court!
         </p>
       </div>
     </div>

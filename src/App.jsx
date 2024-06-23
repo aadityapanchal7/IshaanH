@@ -12,8 +12,8 @@ function App() {
         <Lander />
         <div className='flex flex-col justify-start items-start text-left p-16 w-full md:ml-[50%]'>
           <About />
-          <Research />
           <Initiatives />
+          <Research />
           <Resume />
         </div>
       </div>

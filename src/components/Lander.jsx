@@ -12,7 +12,7 @@ function Lander() {
       <h1 className='text-4xl font-bold text-green-700 md:text-6xl text-balance'>Ishaan Hemrajani</h1>
       <div className='flex flex-col flex-wrap justify-center pt-3 md:flex-row md:px-0 md:justify-start'>
         <p className='text-sm text-balance'>
-          an ambitious high schooler with a <br className='block md:hidden' /> interest for 
+          an ambitious high schooler with a <br className='block md:hidden' /> interest in 
           <ReactTyped 
             strings={[
               'Blockchain.', 
