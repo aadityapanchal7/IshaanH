@@ -7,7 +7,7 @@ function Resume() {
 
   return (
     <>
-    <div className='w-full pt-14 md:pt-0 lg:pb-20' id='Resume'>
+    <div className='w-full pt-20' id='Resume'>
 
       <div className='sticky top-0 w-full py-2 text-xl font-bold text-green-700 md:text-2xl lg:text-3xl bg-white/90'>
         //Resume
@@ -20,8 +20,8 @@ function Resume() {
         </button>
       </div>
     </div>
-    <footer className="bottom-0 flex justify-center w-full pt-10 text-sm text-center">
-        <span className="mb-3">
+    <footer className="bottom-0 flex justify-center w-full text-sm text-center pt-30">
+        <span className="mt-20 mb-3">
           © {year} Ishaan Hemrajani All Rights Reserved.
         </span>
       </footer>

@@ -10,7 +10,7 @@ function ProjectCard() {
 
 
               {/* Image */}
-              <img className="object-cover h-auto mb-5 shadow-md " src={item.image} alt={item.alt} width={item.width} height={item.height} />
+              <img className="flex items-center justify-center object-cover h-auto shadow-md " src={item.image} alt={item.alt} width={item.width} height={item.height} />
   
 
 
@@ -19,9 +19,6 @@ function ProjectCard() {
             <h5 className="text-xl font-semibold ">
               {item.title}
             </h5>
-            <p className='mb-2 text-sm text-gray-400 '>
-              {item.date}
-            </p>
             <p className="text-base font-light text-gray-900">
               {item.description}
             </p>

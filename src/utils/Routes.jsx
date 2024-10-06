@@ -14,9 +14,14 @@ export const routes = [
     path: "#Research",
   },
   {
+    name: "News",
+    path: "#News",
+  },
+  {
     name: "Resume",
     path: "#Resume",
   },
+
   
 ];
 
