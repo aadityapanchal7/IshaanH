@@ -8,7 +8,7 @@ function Card() {
     {Research.map((info, index) => (
             
     <div key={index} >
-      <div className="flex flex-row items-center w-full h-40 gap-4 px-4 transition-all duration-500 rounded-lg shadow-lg cursor-pointer hover:translate-y-2 md:w-96 bg-neutral-50 justify-evenly">
+      <div className="flex flex-row items-center w-full h-40 gap-4 px-4 mt-5 transition-all duration-500 rounded-lg shadow-lg cursor-pointer hover:translate-y-2 md:w-96 bg-neutral-50 justify-evenly">
         <div className='flex-col '>
           <img className="rounded-full shadow-sm stroke-purple-300 shrink-0" src={info.image} alt={info.alt} width={info.width}/>
 
