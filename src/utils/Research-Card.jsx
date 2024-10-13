@@ -10,6 +10,7 @@ export const Research = [
     Link: "https://journals.gmu.edu/index.php/jssr/article/view/4043"
   },
   {
+    image: './assets/curiex.png',
     Title: 'Finance',
     Date: '/ 2024-9-10',
     Description: "Blockchain in Cloud Computing              ",
