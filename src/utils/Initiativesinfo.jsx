@@ -10,14 +10,14 @@ export const Initiatives = [
     link: 'https://www.researchmadeaccessible.org',
   },
   {
-    image: './assets/Deuce_S.png',
+    image: './assets/imagineX.png',
     width: '210',
     height: '',
     alt: 'Website_Image',
-    title: 'Deuce-Reduce',
+    title: 'Youth Developer for ImaginX',
     date: 'June 2024',
-    description: "Another nonprofit I'm involved in aimed to helping sustain the environment, 'one tennis ball at a time'.",
-    link: 'https://www.deucereduce.com',
+    description: "Another initiative I'm involved in aimed at integrating augmented reality learning solutions within Learning Management Systems, such as Canvas.",
+    link: 'https://imaginxavr.com/learning-with-ar-and-vr/',
   },
   {
     image: './assets/Invest.jpg',
