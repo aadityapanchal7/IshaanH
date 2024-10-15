@@ -18,7 +18,6 @@ function Lander() {
               'Blockchain.', 
               'Research.', 
               'Programming.', 
-              'Finance.',
               'Equity.',
             ]} 
             typeSpeed={70}
