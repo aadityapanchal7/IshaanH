@@ -6,7 +6,7 @@ export const Initiatives = [
     alt: 'Website_Image',
     title: 'Research Made Accessible',
     date: 'May 2024',
-    description: 'A nonprofit I founded aiming to increase availability of research mentors and make it accessible.',
+    description: 'A nonprofit I founded aiming to increase availability of research mentors to prevent exclusion in academia',
     link: 'https://www.researchmadeaccessible.org',
   },
   {
