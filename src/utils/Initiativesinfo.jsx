@@ -26,7 +26,7 @@ export const Initiatives = [
     alt: 'Website_Image',
     title: 'Investment Club',
     date: 'June 2024',
-    description: 'A club and organization I am involved in which aims to teach financial literacy through stocks/investments.',
+    description: 'A club and organization I am President of which aims to teach financial literacy through investment knowledge',
     link: 'https://jhsinvestmentclub.vercel.app/'
   },
 ]
