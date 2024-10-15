@@ -6,8 +6,18 @@ export const Initiatives = [
     alt: 'Website_Image',
     title: 'Research Made Accessible',
     date: 'May 2024',
-    description: 'A nonprofit I founded aiming to increase availability of research mentors to prevent exclusion in academia',
+    description: 'A nonprofit I co-founded aiming to increase availability of research mentors to prevent exclusion in academia',
     link: 'https://www.researchmadeaccessible.org',
+  },
+  {
+    image: './assets/RMA_S.png',
+    width: '210',
+    height: '',
+    alt: 'Website_Image',
+    title: 'LiteracyLabs',
+    date: 'May 2024',
+    description: 'An iniative I co-founded aiming to increase accessibility in education thorugh the teaching of scientific and financial literacy to low-income, first-gen, and special-needs students',
+    link: 'https://www.literacylabs.fyi',
   },
   {
     image: './assets/imagineX.png',
@@ -16,7 +26,7 @@ export const Initiatives = [
     alt: 'Website_Image',
     title: 'Youth Developer for ImaginX',
     date: 'June 2024',
-    description: "Another initiative I'm involved in aimed at integrating augmented reality learning solutions within Learning Management Systems, such as Canvas.",
+    description: "Another initiative I'm involved in aimed at integrating augmented reality learning solutions within Learning Management Systems, such as Canvas",
     link: 'https://imaginxavr.com/learning-with-ar-and-vr/',
   },
   {
