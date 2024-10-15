@@ -10,7 +10,7 @@ export const Initiatives = [
     link: 'https://www.researchmadeaccessible.org',
   },
   {
-    image: './assets/RMA_S.png',
+    image: './assets/LiteracyLabs.png',
     width: '210',
     height: '',
     alt: 'Website_Image',
