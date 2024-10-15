@@ -16,7 +16,7 @@ function Resume() {
       <div className='flex w-full h-full md:justify-center md:items-center '>
         <button className='flex px-6 py-3 mt-5 space-x-2 bg-orange-300 shadow-md cursor-pointer rounded-xl hover:bg-orange-200 '>
           <IoDownloadOutline className='flex size-5' />
-          <a href="" download >Download</a>
+          <a href="./assets/resume.pdf" download >Download</a>
         </button>
       </div>
     </div>
