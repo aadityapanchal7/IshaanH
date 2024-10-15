@@ -17,7 +17,7 @@ export const Initiatives = [
     title: 'LiteracyLabs',
     date: 'May 2024',
     description: 'An iniative I co-founded aiming to increase accessibility in education through the teaching of scientific and financial literacy to low-income, first-gen, and special-needs students',
-    link: 'https://literacylabs.fyi',
+    link: 'https://literacylabs.fyi/',
   },
   {
     image: './assets/imagineX.png',
