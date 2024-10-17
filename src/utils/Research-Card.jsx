@@ -1,5 +1,14 @@
 export const Research = [
   {
+    image: './assets/IAJER.png',
+    width: '80',
+    alt: 'Logo',
+    Title: 'Independent Research',
+    Date: '/ 2024-10-15',
+    Description: "The profitability implications of the implementation of blockchain in cloud computing ",
+    Link: "https://www.iajer.com/wp-content/uploads/2024/10/A7100109.pdf"
+  },
+  {
     image: './assets/GMU.png',
     width: '80',
     alt: 'Logo',
