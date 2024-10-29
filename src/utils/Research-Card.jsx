@@ -4,7 +4,7 @@ export const Research = [
     width: '80',
     alt: 'Logo',
     Title: 'Independent Research',
-    Date: '/ 2024-10-15',
+    Date: '/ 2024-10-27',
     Description: "Utilizing Blockchain Technology in Special Needs Education and Treatment: A Comprehensive Review and Analysis",
     Link: "https://uijrt.com/articles/v5/i12/UIJRTV5I120007.pdf"
   },
