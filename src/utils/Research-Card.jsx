@@ -7,7 +7,7 @@ export const Research = [
     Date: '/ 2024-10-15',
     Description: "Utilizing Blockchain Technology in Special Needs Education and Treatment: A Comprehensive Review and Analysis",
     Link: "https://uijrt.com/articles/v5/i12/UIJRTV5I120007.pdf"
-  }
+  },
   {
     image: './assets/IAJER.png',
     width: '80',
