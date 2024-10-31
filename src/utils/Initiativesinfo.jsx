@@ -30,7 +30,7 @@ export const Initiatives = [
     link: 'https://imaginxavr.com/learning-with-ar-and-vr/',
   },
   {
-    image: './assets/invest_logo.jpg',
+    image: './assets/invest_logo.png',
     width: '210',
     height: '',
     alt: 'Website_Image',
