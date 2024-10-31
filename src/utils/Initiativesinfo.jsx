@@ -1,6 +1,6 @@
 export const Initiatives = [
   {
-    image: './assets/RMA_S.png',
+    image: './assets/RMA_logo.png',
     width: '210',
     height: '',
     alt: 'Website_Image',
@@ -10,7 +10,7 @@ export const Initiatives = [
     link: 'https://www.researchmadeaccessible.org',
   },
   {
-    image: './assets/LiteracyLabs.png',
+    image: './assets/LL_logo.png',
     width: '210',
     height: '',
     alt: 'Website_Image',
@@ -20,7 +20,7 @@ export const Initiatives = [
     link: 'https://literacylabs.fyi/',
   },
   {
-    image: './assets/imagineX.png',
+    image: './assets/imagin_logo.png',
     width: '210',
     height: '',
     alt: 'Website_Image',
@@ -30,7 +30,7 @@ export const Initiatives = [
     link: 'https://imaginxavr.com/learning-with-ar-and-vr/',
   },
   {
-    image: './assets/Invest.jpg',
+    image: './assets/invest_logo.jpg',
     width: '210',
     height: '',
     alt: 'Website_Image',
