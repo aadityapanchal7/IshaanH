@@ -6,7 +6,7 @@ function News() {
       <div className='w-full pt-20' id='News'>
 
         <div className='sticky top-0 w-full py-2 text-xl font-bold text-green-700 md:text-2xl lg:text-3xl bg-white/90'>
-          //News
+          News
         </div>
 
         {/* First Article */}
