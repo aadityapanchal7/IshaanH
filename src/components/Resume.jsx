@@ -10,7 +10,7 @@ function Resume() {
     <div className='w-full pt-20' id='Resume'>
 
       <div className='sticky top-0 w-full py-2 text-xl font-bold text-green-700 md:text-2xl lg:text-3xl bg-white/90'>
-        //Resume
+        Resume
       </div>
 
       <div className='flex w-full h-full md:justify-center md:items-center '>
